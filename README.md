@@ -60,7 +60,7 @@ The content here is intended as a summary for presentation purposes.
 ## 📸 UI Screenshots
 
 ### 1. Administrator Settings
-<img src="images/adminitration_IT5.jpg" width="500">
+<img src="./Images/adminitration_IT5.jpg" width="500">
 
 Touchscreen UI (Qt + C++).  
 Functions: system configuration, administration, user accounts, network, printer, copier...
@@ -68,7 +68,7 @@ Functions: system configuration, administration, user accounts, network, printer
 ---
 
 ### 2. IWS Settings (Web Admin Panel)
-<img src="images/Adminitration_Web.jpg" width="500">
+<img src="./Images/Adminitration_Web.jpg" width="500">
 
 Web-based interface (JavaScript).  
 Functions: enable/disable IWS, configure HTTP/HTTPS ports, manage admin password, memory allocation.
@@ -76,7 +76,7 @@ Functions: enable/disable IWS, configure HTTP/HTTPS ports, manage admin password
 ---
 
 ### 3. Main Function Screen
-<img src="images/basic_type.jpg" width="500">
+<img src="./Images/basic_type.jpg" width="500">
 
 Main screen on the printer.  
 Functions: Copy, Scan/Fax, User Box, Utility, Sound Setting.
@@ -84,7 +84,7 @@ Functions: Copy, Scan/Fax, User Box, Utility, Sound Setting.
 ---
 
 ### 4. Scan/Send Menu
-<img src="images/print_copy.jpg" width="500">
+<img src="./Images/print_copy.jpg" width="500">
 
 UI for sending scanned documents.  
 Supports: Email, SMB, FTP, WebDAV, User Box storage.  
@@ -93,7 +93,7 @@ Options: resolution, color mode, file format (PDF, TIFF, JPEG).
 ---
 
 ### 5. Service Mode – Server Settings
-<img src="images/servicemode_serverSetting.jpg" width="500">
+<img src="./Images/servicemode_serverSetting.jpg" width="500">
 
 UI for maintenance engineers.  
 Functions: configure SMTP server, check TX/RX status, reset data.
